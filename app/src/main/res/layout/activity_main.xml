@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/vector_drawable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/vector_drawable" />
+
+    <Button
+        android:id="@+id/transition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/transition" />
+
+    <Button
+        android:id="@+id/constraint_animation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/constraint_animation" />
+
+    <Button
+        android:id="@+id/shared_element_transition_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shared_element_transition" />
+
+    <Button
+        android:id="@+id/shared_element_transition_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shared_element_transition_fragment" />
+
+    <Button
+        android:id="@+id/motion_layout_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/motion_layout_animation" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AnimationDemo</string>
+    <string name="vector_drawable">Vector drawable</string>
+    <string name="transition">Transition</string>
+    <string name="android_image">Android image</string>
+    <string name="constraint_animation">Constraint layout animation</string>
+    <string name="click_on_image">Click on image</string>
+    <string name="long_text">Согласитесь, круто выглядело бы приложение,
+        в котором есть некоторый элемент непрерывности, например,
+        когда одна View проходит через несколько экранов.
+    Начиная с Android 5.0 это стало возможным благодаря Shared Element Transition.</string>
+    <string name="shared_element_transition">Shared Element Transition Activity</string>
+    <string name="shared_element_transition_fragment">Shared Element Transition Fragment</string>
+    <string name="motion_layout_animation">Motion layout animation</string>
+    <string name="press_me">Press Me</string>
+    <string name="box_image">Box image</string>
+</resources>
